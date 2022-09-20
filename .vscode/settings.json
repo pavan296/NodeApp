@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7d24049-b762-4935-912d-9a07ab33b00b/appservices/subscriptions/b7d24049-b762-4935-912d-9a07ab33b00b/resourceGroups/pavan-devops/providers/Microsoft.Web/sites/pavan-node-devops",
+    "appService.deploySubpath": "."
+}
